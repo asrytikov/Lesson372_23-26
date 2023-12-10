@@ -1,4 +1,4 @@
-package com.example.lesson37;
+package com.example.lesson372;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
